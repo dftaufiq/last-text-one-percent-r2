@@ -12,7 +12,7 @@ Kit (read-only copy, TIDAK di-commit): `RULES.txt`, `cli/`, `competition.yaml`, 
 ## New commit
 
 - `33e662533f363a07af7dfa743a99cd787da349b3` — root commit (entry + README + LICENSE)
-- Commit KEDUA (menyusul di bawah, setelah HANDOFF ini ditulis): hapus file kit dari snapshot repo + tambah `.makefun/owner.json`, `leaderboard-top10.md`, `HANDOFF.md`. **Koordinator: pakai commit TERBARU di `main` saat bundle/submit, bukan 33e6625.**
+- `a1c2c621a1d714b7c7b0182a78f7422ad743a64e` — hapus file kit dari snapshot repo + tambah `.makefun/owner.json`, `leaderboard-top10.md`, `HANDOFF.md`. **Koordinator: pakai commit TERBARU di `main` saat bundle/submit (cek `git ls-remote` dulu).**
 
 ## Local check result — PASS
 
